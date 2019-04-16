@@ -1,0 +1,41 @@
+- El proyecto se debe correr desde el login.
+
+- Para entrar como dueño: 
+	Usuario: administrador
+	Contraseña: 123456
+
+- Para entrar como empleado:
+	Usuario: empleado
+	Contraseña: 123456
+
+- Para entrar como cliente:
+	Usuario: cliente
+	Contraseña: 123456
+
+- No hay ventas creadas.
+
+- No hay pedidos creados.
+
+- Hay un conjunto de plantas creadas. Se pueden eliminar desde el menu dueño, y tambien se pueden crear nuevas.
+
+- Es necesario importar la libreria de jcalendar (ubicada en la raiz del proyecto).
+
+- En la carpeta Emails se guardan los archivos .txt que simulan los emails generados 
+al registrar un pedido como terminado.
+
+- El proyecto tiene 6 paquetes que contienen las clases necesarias para que funcione
+la aplicacion:
+	
+	interfazgrafica.ClasesBase: Contiene las clases que definen los metodos y variables
+	de usuarios, clientes, plantas, pedidos y ventas.
+	
+	interfazgrafica.Ordenadores: Clases que implementan la interfaz Comparator, utilizadas
+	para ordenar colecciones.
+
+	interfazgrafica.VentanasCliente: JFrames que son utilizadas con permiso de cliente.
+
+	interfazgrafica.VentanasEnComun: JFrames utilizados con permiso de usuario y cliente.
+
+	interfazgrafica.VentanasUsuario: JFrames utilizados con permiso de usuario.
+	
+	interfazgrafica.Iconos: Imagenes utilizadas en los JFrames.

@@ -1,0 +1,10 @@
+Codigo del cliente: 204
+Nombre: Cliente
+Direccion: Av. Ejercito de los Andes 935
+E-mail: cliente@gmail.com
+CUIL: 20407224958
+Tipo: false
+Fecha de ingreso: 22/11/2017
+Usuario: cliente
+Contrasena: 123456
+

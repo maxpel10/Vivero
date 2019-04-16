@@ -1,0 +1,176 @@
+Codigo: 2822
+Denominacion Comun: Quiscal
+Especie: Cereus peruvianus
+Tamaño: 2.0
+Precio: 500.0
+Stock: 400
+Baja: false
+
+Codigo: 3938
+Denominacion Comun: Gramillon
+Especie: Stenitaohrum secundatum
+Tamaño: 0.05
+Precio: 20.0
+Stock: 60
+Baja: false
+
+Codigo: 4835
+Denominacion Comun: Rabanito
+Especie: Raphanus sativus
+Tamaño: 0.6
+Precio: 250.0
+Stock: 388
+Baja: false
+
+Codigo: 784
+Denominacion Comun: Zapote
+Especie: Phytolacca dioica
+Tamaño: 2.5
+Precio: 500.0
+Stock: 445
+Baja: false
+
+Codigo: 4241
+Denominacion Comun: Rosa francesa
+Especie: Rosa gallica
+Tamaño: 0.45
+Precio: 990.0
+Stock: 48
+Baja: false
+
+Codigo: 8034
+Denominacion Comun: Roble andaluz
+Especie: Quercus canariensis
+Tamaño: 0.5
+Precio: 250.0
+Stock: 26
+Baja: false
+
+Codigo: 6829
+Denominacion Comun: Azucena
+Especie: Amarilis belladona
+Tamaño: 0.33
+Precio: 200.0
+Stock: 8
+Baja: false
+
+Codigo: 6602
+Denominacion Comun: Rosa de Siria
+Especie: Hibiscus syriacus
+Tamaño: 0.2
+Precio: 1200.0
+Stock: 5
+Baja: false
+
+Codigo: 8908
+Denominacion Comun: Rosa de San Juan
+Especie: Hypericum calycinum
+Tamaño: 0.2
+Precio: 1500.0
+Stock: 16
+Baja: false
+
+Codigo: 8774
+Denominacion Comun: Bonsai
+Especie: Carmona microphylla
+Tamaño: 0.1
+Precio: 1000.0
+Stock: 11
+Baja: false
+
+Codigo: 6949
+Denominacion Comun: Rosa roja
+Especie: Rosa gallica
+Tamaño: 0.5
+Precio: 1100.0
+Stock: 16
+Baja: false
+
+Codigo: 2809
+Denominacion Comun: Rosa japonesa
+Especie: Kerria japonica
+Tamaño: 0.1
+Precio: 500.0
+Stock: 6
+Baja: false
+
+Codigo: 3821
+Denominacion Comun: Maldurillo
+Especie: Ligustrum vulgare
+Tamaño: 1.0
+Precio: 50.0
+Stock: 16
+Baja: false
+
+Codigo: 4592
+Denominacion Comun: Moral
+Especie: Morus nigro
+Tamaño: 25.0
+Precio: 100.0
+Stock: 27
+Baja: false
+
+Codigo: 9158
+Denominacion Comun: Iris
+Especie: Iris retiluctasis
+Tamaño: 0.7
+Precio: 125.0
+Stock: 17
+Baja: false
+
+Codigo: 8403
+Denominacion Comun: Bambu
+Especie: Nandina
+Tamaño: 0.5
+Precio: 500.0
+Stock: 65
+Baja: false
+
+Codigo: 842
+Denominacion Comun: Abeto
+Especie: Abies pinsapo
+Tamaño: 0.5
+Precio: 250.0
+Stock: 11
+Baja: false
+
+Codigo: 4645
+Denominacion Comun: Tabaiba dulce
+Especie: Ephoria canariesis
+Tamaño: 2.5
+Precio: 450.0
+Stock: 56
+Baja: false
+
+Codigo: 4916
+Denominacion Comun: Vainilla
+Especie: Vanilla pompona
+Tamaño: 0.1
+Precio: 2500.0
+Stock: 5
+Baja: false
+
+Codigo: 4001
+Denominacion Comun: Violeta de agua
+Especie: Eichhornia crassipes
+Tamaño: 0.5
+Precio: 70.0
+Stock: 20
+Baja: false
+
+Codigo: 7788
+Denominacion Comun: Acacia
+Especie: Robinia pseudocacia
+Tamaño: 0.2
+Precio: 400.0
+Stock: 15
+Baja: false
+
+Codigo: 6259
+Denominacion Comun: Abedul
+Especie: Betula alba
+Tamaño: 0.3
+Precio: 250.0
+Stock: 63
+Baja: false
+

@@ -1,0 +1,27 @@
+Empleado
+Nombre: Emple
+Apellido: ado
+DNI: 22768699
+Telefono Movil: 2664361979
+Telefono Fijo: 2664612043
+Fecha de nacimiento: 25/5/1991
+Usuario: empleado
+Contrasena: 123456
+Puntaje: 1
+Sueldo: 25000.0
+Antiguedad: 3
+Bono extra: 0.0
+
+Dueno
+Nombre: Admin
+Apellido: istrador
+DNI: 38750962
+Telefono Movil: 2664612043
+Telefono Fijo: 2664361979
+Fecha de nacimiento: 18/1/1997
+Usuario: administrador
+Contrasena: 123456
+Puntaje: 4
+Especies creadas: 0
+Escala: 0
+
